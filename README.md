@@ -1,4 +1,5 @@
-# Project Name: Location based analysis of the restaurants with K-means Clustering in Machine Learning Technology.
+# Project Name:
+Location based analysis of the restaurants with K-means Clustering in Machine Learning Technology.
 
 # Objective: Perform a geographical analysis of the restaurants in the dataset.
 
